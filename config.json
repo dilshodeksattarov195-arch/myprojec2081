@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingpender",
+        "uuid": 20801676,
+        "checksum": "u2n3im"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
